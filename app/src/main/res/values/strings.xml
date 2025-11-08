@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voyago</string>
+
+    <!-- Navigation -->
+    <string name="nav_trips">Cesty</string>
+    <string name="nav_map">Mapa</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Trips Screen -->
+    <string name="trips_title">Moje cesty</string>
+    <string name="trips_empty">Zatiaľ nemáš žiadne cesty.\nPridaj svoju prvú cestu!</string>
+    <string name="trips_add">Pridať cestu</string>
+
+    <!-- Add Trip Screen -->
+    <string name="add_trip_title">Nová cesta</string>
+    <string name="add_trip_name">Názov cesty</string>
+    <string name="add_trip_location">Miesto</string>
+    <string name="add_trip_description">Popis</string>
+    <string name="add_trip_date">Dátum</string>
+    <string name="add_trip_save">Uložiť</string>
+    <string name="add_trip_cancel">Zrušiť</string>
+    <string name="add_trip_take_photo">Pridať fotku</string>
+    <string name="add_trip_get_location">Získať polohu</string>
+
+    <!-- Trip Detail Screen -->
+    <string name="detail_weather">Počasie</string>
+    <string name="detail_location">Poloha</string>
+    <string name="detail_notes">Poznámky</string>
+    <string name="detail_edit">Upraviť</string>
+    <string name="detail_delete">Vymazať</string>
+
+    <!-- Map Screen -->
+    <string name="map_title">Mapa ciest</string>
+    <string name="map_no_location">Žiadne miesta na zobrazenie</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">Profil</string>
+    <string name="profile_stats">Štatistiky</string>
+    <string name="profile_total_trips">Celkový počet ciest</string>
+    <string name="profile_countries">Navštívené krajiny</string>
+    <string name="profile_photos">Fotografie</string>
+
+    <!-- Permissions -->
+    <string name="permission_location">Aplikácia potrebuje prístup k polohe</string>
+    <string name="permission_camera">Aplikácia potrebuje prístup ku kamere</string>
+    <string name="permission_denied">Povolenie zamietnuté</string>
+
+    <!-- Errors -->
+    <string name="error_generic">Nastala chyba</string>
+    <string name="error_network">Chyba pripojenia k internetu</string>
+    <string name="error_loading">Načítavanie zlyhalo</string>
+    <string name="error_save">Ukladanie zlyhalo</string>
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="delete">Vymazať</string>
+    <string name="edit">Upraviť</string>
+    <string name="save">Uložiť</string>
+    <string name="loading">Načítavam…</string>
+</resources>
